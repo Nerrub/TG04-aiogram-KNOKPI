@@ -5,7 +5,7 @@ from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, C
 import logging
 
 # Инициализация бота с вашим токеном
-bot = Bot(token="7505360526:AAHQF-wTEqoaBbg7xLwYvOHUaSe2_dV9o44")
+bot = Bot(token="")
 dp = Dispatcher()
 
 logging.basicConfig(level=logging.INFO)
